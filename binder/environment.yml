@@ -1,0 +1,24 @@
+name: TU_Tutorials
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - sympy
+  - bokeh
+  - librosa
+  - notebook
+  - jupyter_nbextensions_configurator
+  - jupyter_contrib_nbextensions
+  - widgetsnbextension
+  - rise
+  - ipywidgets
+  - pyaudio
+  - plotly=3.10.0
+  - nodejs
+
+
