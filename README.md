@@ -21,6 +21,19 @@
   - Mid-rise and Mid-tread quantization
     - Real-Time Python Example: Quantization
 
+- 02 Filter Banks I :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_02_FilterBanks1.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_02_FilterBanks1.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_02_FilterBanks1.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Zk8Oum6LtUc)
+
+  - Filter Banks
+  - Downsampling
+  - Upsampling
+  - Filter Bank Structure
+  - Perfect Reconstruction
+  - Analysis Filter Bank
+  - Synthesis Filter Bank
+  - Polyphase
+  - Transforms as Filter Banks
+  - Real-Time Python Examples
+    
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjRWkWLswWmxFrDmj6leRwh)
  
