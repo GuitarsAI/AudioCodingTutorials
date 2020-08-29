@@ -33,6 +33,29 @@
   - Polyphase
   - Transforms as Filter Banks
   - Real-Time Python Examples
+
+- 03 Filter Banks II :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_03_FilterBanks2.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_03_FilterBanks2.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_03_FilterBanks2.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/f1ykTtvWkwM)
+
+  - Modulated Filter Banks - Extending the DCT
+  - Modulated Filter Banks
+    - Frequency Shifts
+    - The Window Function
+  - Fast Implementation: Analysis Polyphase Matrix
+  - The MDCT Filter Bank
+  - Graphical Interpretation of Analysis Matrix  𝐹𝑎
+  - MDCT, Perfect Reconstruction
+  - MDCT Filter Banks, Sine Window
+    - Sine-Window Frequency Response
+  - MDCT, Advantages
+  - MDCT Filter Banks, Impulse Responses
+  - MDCT Filter Banks, Frequency Responses
+  - MDCT: Python Examples
+    - MDCT Fast Implementation
+  - Extending the Length of the MDCT
+    - Zero-Delay Matrix
+    - Maximum-Delay Matrix
+    - Design Method
+    - Real-Time Example
     
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjRWkWLswWmxFrDmj6leRwh)
