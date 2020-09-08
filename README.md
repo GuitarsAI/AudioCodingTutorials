@@ -57,10 +57,18 @@
     - Design Method
     - Real-Time Example
     
+- 03b Filter Banks III :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_03b_FilterBanks3.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_03b_FilterBanks3.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_03b_FilterBanks3.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/eLHqX6qZcX4)
+
+  - Block Switching
+  - Wavelets, QMF (Quadradutre Mirror Filter) Filter Banks
+    - QMF (Quadrature Mirror Filter)
+  - CQMF: Conjugate QMF
+  - Pseudo-QMF (PQMF)
+    - PQMF used in MPEG4
+    
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjRWkWLswWmxFrDmj6leRwh)
  
-
 # Requirements
 Please check the following files at the 'binder' folder:
   - environment.yml
