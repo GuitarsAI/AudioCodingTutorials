@@ -66,6 +66,36 @@
   - Pseudo-QMF (PQMF)
     - PQMF used in MPEG4
     
+- 04 Psychoacoustics :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_04_psychoAcoustics.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_04_psychoAcoustics.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_04_psychoAcoustics.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Dp9NhFShaPM)
+
+  - Block Diagram of a Perceptual Audio Encoder
+  - Structure of the Human Ear
+    - Cochlea
+    - Organ of Corti
+  - Preprocessing of Sound in the Peripheral System
+  - Information Processing in the Auditory System
+  - Sound Perception
+    - Frequency and Level Range of Human Hearing
+    - Threshold in Quiet or the Absolute Threshold
+    - Hearing Threshold and Age
+    - Loudness
+    - Critical Bands
+        - Frequency Grouping in Human Hearing
+        - Excursus - Critical Bands and Loudness
+    - Bark Scale
+    - Masking
+        - Masking of Pure Tones by Noise -Broad-Band Noise
+        - Masking of Pure Tones by Noise -Narrow-Band Noise
+        - Masking of Pure Tones by Low-Pass or High-Pass Noise
+        - Masking of Pure Tones by Pure Tone
+        - Masking of Pure Tone by Complex Tones
+        - Tonality
+        - Masking - Spreading Function
+        - Calculating the Masking Threshold
+        - In-Band Making
+        - Masking Neighboring Bands
+        - Temporal Masking Effects
+    
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjRWkWLswWmxFrDmj6leRwh)
  
