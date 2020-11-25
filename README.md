@@ -95,6 +95,21 @@
         - In-Band Making
         - Masking Neighboring Bands
         - Temporal Masking Effects
+        
+- 05 Psychoacoustics Models :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_05_psychoAcousticsModels.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_05_psychoAcousticsModels.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_05_psychoAcousticsModels.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/CulE7VNtf5Q)
+
+    - Spreading Function: Python Example
+    - Masking Neighboring Bands Non-Linear Superposition
+    - Bark Scale Approximations:
+        - Zwicker&Terhard
+        - Traunmueller
+        - Schröder
+    - Bark Scale Approximations: Comparisons
+    - Bark Scale Mapping
+    - Mapping from Bark scale back to Linear
+    - Hearing Threshold in Quiet
+    - The Complete Psycho-Acoustic Model
+    - Physical Models of Hearing
     
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjRWkWLswWmxFrDmj6leRwh)
