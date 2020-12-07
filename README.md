@@ -1,4 +1,4 @@
-# Audio Coding
+# Audio Coding Video Tutorials and Python Notebooks
 <p align="center">
     <img src="./images/ac_header.png">
 </p>
