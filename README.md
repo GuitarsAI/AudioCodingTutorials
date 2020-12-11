@@ -98,50 +98,50 @@
         
 ## 05 Psychoacoustics Models :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_05_psychoAcousticsModels.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_05_psychoAcousticsModels.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_05_psychoAcousticsModels.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/CulE7VNtf5Q)
 
-    - Spreading Function: Python Example
-    - Masking Neighboring Bands Non-Linear Superposition
-    - Bark Scale Approximations:
-        - Zwicker&Terhard
-        - Traunmueller
-        - Schröder
-    - Bark Scale Approximations: Comparisons
-    - Bark Scale Mapping
-    - Mapping from Bark scale back to Linear
-    - Hearing Threshold in Quiet
-    - The Complete Psycho-Acoustic Model
-    - Physical Models of Hearing
+- Spreading Function: Python Example
+- Masking Neighboring Bands Non-Linear Superposition
+- Bark Scale Approximations:
+    - Zwicker&Terhard
+     - Traunmueller
+     - Schröder
+- Bark Scale Approximations: Comparisons
+- Bark Scale Mapping
+- Mapping from Bark scale back to Linear
+- Hearing Threshold in Quiet
+- The Complete Psycho-Acoustic Model
+- Physical Models of Hearing
     
 ## 06 PQMF Filter Bank, MPEG-1 / MPEG-2 BC Audio :<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_06_PQMF_FilterBank.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/AudioCodingTutorials/master?filepath=AC_06_PQMF_FilterBank.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/AudioCodingTutorials/blob/master/AC_06_PQMF_FilterBank.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/yiPMDqBT7qk)
 
-    - The Basic Paradigm of T/F Domain Audio Coding
-    - MPEG Audio Standardization Philosophy
-    - MPEG 1/2
-        - MPEG-1 Audio
-            - The main building blocks
-            - MPEG Audio - Short Description of the Layers
-            - Block Diagram MPEG-1 Layer 1
-            - Block diagram Layer-3
-    - Example for the Time/Frequency Resolution for the 2-Stage Layer III Coder
-    - MPEG - Layer-1, -2 and -3 Compression: Header
-    - The Pseudo-Quadrature-Mirror Filter Bank (PQMF)
-        - PQMF Definition
-        - PQMF Reformulation
-        - PQMF Design
-    - Python Example Optimization
-    - PQMF Optimization
-        - Optimization Function
-        - Python Example
-        - Unity Condition
-    - PQMF Polyphase Implementation
-    - Hybrid Filter Bank & Aliasing
-        - Problem of Aliasing in a Cascaded Filter Bank
-        - Aliasing Reduction Structure (MP3)
-    - MPEG Audio - Layer-3: Bitstream
-    - MPEG-1 Audio Decoder
-        - MPEG Audio – General Decoder Structure
-        - MPEG - Audio Decoder Process (1) Layer-3 Decoder flow chart
-        - MPEG - Audio Decoder Process Layer-3 Decoder Diagramm
-    - Annex: Abbreviations and Companies
+- The Basic Paradigm of T/F Domain Audio Coding
+- MPEG Audio Standardization Philosophy
+- MPEG 1/2
+    - MPEG-1 Audio
+        - The main building blocks
+        - MPEG Audio - Short Description of the Layers
+        - Block Diagram MPEG-1 Layer 1
+        - Block diagram Layer-3
+- Example for the Time/Frequency Resolution for the 2-Stage Layer III Coder
+- MPEG - Layer-1, -2 and -3 Compression: Header
+- The Pseudo-Quadrature-Mirror Filter Bank (PQMF)
+    - PQMF Definition
+    - PQMF Reformulation
+    - PQMF Design
+- Python Example Optimization
+- PQMF Optimization
+    - Optimization Function
+    - Python Example
+    - Unity Condition
+- PQMF Polyphase Implementation
+- Hybrid Filter Bank & Aliasing
+    - Problem of Aliasing in a Cascaded Filter Bank
+    - Aliasing Reduction Structure (MP3)
+- MPEG Audio - Layer-3: Bitstream
+- MPEG-1 Audio Decoder
+    - MPEG Audio – General Decoder Structure
+    - MPEG - Audio Decoder Process (1) Layer-3 Decoder flow chart
+    - MPEG - Audio Decoder Process Layer-3 Decoder Diagramm
+- Annex: Abbreviations and Companies
     
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjRWkWLswWmxFrDmj6leRwh)
